@@ -6,3 +6,4 @@ seaborn
 scikit-learn==1.5.1
 gensim
 pyvi
+openpyxl
